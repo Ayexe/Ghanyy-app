@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("🎈 RafaMAXWIN999")
+st.title("🎈 Gacor!")
 st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
+    "Situs paling gacor!"
 )
