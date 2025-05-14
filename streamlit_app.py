@@ -1,7 +1,7 @@
 import streamlit as st
 
 st.title("🎈 Indojaw!")
-st.write("Ada kucing nih")
+st.write("!INDOMARET JAWA!")
 
 col1, col2, col3 = st.columns(3)
 
