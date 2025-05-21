@@ -9,9 +9,9 @@ st.header("Radit bisa ngitung, coba aja")
 angka = st.number_input ("coba tulis angka apa aja, si didits mah jago:", value=0, step=1)
 
 if (angka % 2) == 0:
-    st.write(f"{angka} adalah Bilangan genap")
+    st.write(f"{angka} Kata Radit itu adalah Bilangan genap")
 else:
-    st.write(f"{angka} adalah Bilangan ganjil")
+    st.write(f"{angka} Kata Radit itu adalah Bilangan ganjil")
     
     
      
