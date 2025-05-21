@@ -9,9 +9,9 @@ st.header("RADIT INGIN TES KEBERUNTUNGAN ANDA")
 angka = st.number_input ("MASUKAN ANGKA BERUNTUNG ANDA!:", value=0, step=1)
 
 if (angka % 2) == 0:
-    st.write(f"{angka} RADIT BERSABDA, ANDA KURANG BERUNTUNG")
+    st.write(f"{angka} RADIT MEMIKIR... ANDA KURANG BERUNTUNG")
 else:
-    st.write(f"{angka} RADIT BERSABDA, ANDAAA MAXWINNNN GACORRR")
+    st.write(f"{angka} RADIT MEMIKIR... ANDA MAXWINNNN GACORRR")
     
     
      
